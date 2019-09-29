@@ -2,10 +2,13 @@ package main
 
 import (
 	"fmt"
-	"github.com/demotto/my_go/pkg/v1"
+	"my_go/utils"
+	"my_go/utils/pkg1"
 )
 
 func main() {
 	fmt.Println("main is called")
-	v1.hallo()
+	utils.Hallo()
+	utils.Apple()
+	pkg1.God()
 }

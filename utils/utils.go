@@ -1,7 +1,7 @@
-package v1
+package utils
 
 import "fmt"
 
-func hallo() {
+func Hallo() {
 	fmt.Println("hallo() is called")
 }
