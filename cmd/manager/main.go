@@ -3,7 +3,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/demotto/my_go/pkg/utils"
+	"github.com/demotto/my_go/pkg/utils/utils"
 )
 
 
