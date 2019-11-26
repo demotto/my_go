@@ -3,9 +3,10 @@ package main
 
 import (
 	"fmt"
+	"github.com/demotto/my_go/pkg/utils"
 )
 
 
 func main() {
-    fmt.Printf("xxxxxx")
+    fmt.Printf("xxxxxx: %d", utils.hallo(11,22))
 }
